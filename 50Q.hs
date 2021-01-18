@@ -3,7 +3,6 @@ module EparaPassar where
 import Data.Char
 import Data.List 
 
-
 --1. Apresente uma definição recursiva da função (pré-definida) enumFromTo :: Int -> Int -> [Int] que constrói a lista dos números inteiros compreendidos entre dois limites.
 
 myenumFromTo :: Int -> Int -> [Int]
